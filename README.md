@@ -28,3 +28,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikettt01&show_icons=true&locale=en&layout=compact" alt="anikettt01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikettt01&" alt="anikettt01" /></p>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
