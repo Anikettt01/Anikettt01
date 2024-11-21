@@ -6,10 +6,13 @@
 - 💬 Ask me about **Flutter, Competitive Programming**
 
 - 📫 How to reach me **aniketrdeore@gmail.com**
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Anikettt01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">
 <a href="https://www.linkedin.com/in/aniketdeore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketrdeore" height="30" width="40" /></a>
 <a href="https://instagram.com/_.aniket._01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.aniket._01" height="30" width="40" /></a>
