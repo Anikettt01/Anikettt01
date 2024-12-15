@@ -8,9 +8,6 @@
 - 📫 How to reach me **aniketrdeore@gmail.com**
   
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anikettt01&theme=radical&no-bg=true)
-
 
 
 <h3 align="left">Connect with me:</h3>
