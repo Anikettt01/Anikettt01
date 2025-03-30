@@ -19,8 +19,8 @@
 </p>
 <ul align="center">
   <li>🔥 <strong>LeetCode Knight</strong> (Max Rating: 1929)</li>
-  <li>🌟 <strong>Codeforces Specialist</strong> (Max Rating: 1455)</li>
-  <li>⭐ <strong>CodeChef 3⭐</strong> (Max Rating: 1774)</li>
+  <li>🌟 <strong>Codeforces Specialist</strong> (Max Rating: 1565)</li>
+  <li>⭐ <strong>CodeChef 3⭐</strong> (Max Rating: 1780)</li>
 </ul>
 
 
