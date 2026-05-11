@@ -12,7 +12,7 @@
 
 <h2 align="center">🏆 Competitive Programming</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/CodeNikET?ext=contest" alt="LeetCode Stats" width="45%"/>
+  <img src="https://leetcard.jacoblin.cool/AnieInTheLoop?ext=contest" alt="LeetCode Stats" width="45%"/>
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aniket_deore" alt="Codeforces Stats" width="45%"/>
 <!-- <img src="https://codechef-rating-graph.vercel.app/api?username=aniketd01" alt="CodeChef Rating Graph" width="45%"/> -->
 
